@@ -27,3 +27,15 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
